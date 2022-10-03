@@ -38,5 +38,6 @@ Install [Gimp](https://www.gimp.org/downloads/) > Open `Tux-original.png` image 
 
 ### References
 The steps to create a ecb penguin is available https://words.filippo.io/the-ecb-penguin/
+
 https://crypto.stackexchange.com/questions/102107/how-aes-diffusion-permutation-does-not-impact-ecb-penguin-pattern-with-in-each
 
