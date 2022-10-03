@@ -1,6 +1,7 @@
 # ecb-penguin
+[How AES diffusion (permutation) does not impact ECB penguin pattern with in each block?](https://crypto.stackexchange.com/questions/102107/how-aes-diffusion-permutation-does-not-impact-ecb-penguin-pattern-with-in-each)
 
-The steps to create a ecb penguin is available https://words.filippo.io/the-ecb-penguin/
+Click on above link for answer.
 
 ### First convert the Tux to PPM with Gimp
 Install [Gimp](https://www.gimp.org/downloads/) > Open `Tux-original.png` image and export as `ppm` in raw format.
@@ -34,3 +35,8 @@ Install [Gimp](https://www.gimp.org/downloads/) > Open `Tux-original.png` image 
 
 ### Tux-raw-256.ecb.png
 ![Tux-raw-256.ecb.png](./Tux-raw-256.ecb.png)
+
+### References
+The steps to create a ecb penguin is available https://words.filippo.io/the-ecb-penguin/
+https://crypto.stackexchange.com/questions/102107/how-aes-diffusion-permutation-does-not-impact-ecb-penguin-pattern-with-in-each
+
