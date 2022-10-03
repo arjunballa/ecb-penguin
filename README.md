@@ -3,6 +3,7 @@
 The steps to create a ecb penguin is available https://words.filippo.io/the-ecb-penguin/
 
 ### First convert the Tux to PPM with Gimp
+Install [Gimp](https://www.gimp.org/downloads/) > Open `Tux-original.png` image and export as `ppm` in raw format.
 
 ### Take header apart
 `head -n 4 Tux-raw.ppm > header-raw.txt`
